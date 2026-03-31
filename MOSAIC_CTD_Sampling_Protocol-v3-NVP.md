@@ -297,7 +297,7 @@ Final latitude and longitude should be in decimal degrees, but that can be calcu
 
 ## APPENDIX B: VIDEO & IMAGE FILES
 
-**Videos!!!**
+[Video protocol](https://youtu.be/uCHXO4iRwDQ?si=7Tvsbfo6uyvfpjgL)
 
 ![CTDPipette)](https://github.com/CalCOFI/MOSAIC_CTD_Sampling/blob/main/CTDPipette.JPG)
 
